@@ -163,3 +163,4 @@ cython_debug/
 *.txt
 venv/
 pyvenv.cfg
+assets/
