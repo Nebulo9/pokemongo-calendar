@@ -161,6 +161,6 @@ cython_debug/
 
 *.html
 *.txt
-venv/
 pyvenv.cfg
 assets/
+.DS_Store
